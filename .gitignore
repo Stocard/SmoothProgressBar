@@ -24,7 +24,7 @@ pom.xml.*
 # Ant
 bin
 gen
-build.xml
+#build.xml
 ant.properties
 local.properties
 proguard-project.txt
